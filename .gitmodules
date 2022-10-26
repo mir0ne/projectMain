@@ -1,0 +1,4 @@
+[submodule "projectSub1"]
+	path = projectSub1
+	url = https://github.com/mir0ne/projectSub1.git
+	branch = branch1
