@@ -6,3 +6,7 @@
 	path = lib/submodule
 	url = https://github.com/mir0ne/projectMain.git
 	branch = branch2
+[submodule "lib/submodule2"]
+	path = lib/submodule2
+	url = https://github.com/mir0ne/projectsub2.git
+	branch = branch2
